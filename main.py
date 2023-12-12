@@ -189,6 +189,7 @@ def historique():
 
 
 
+
 if __name__ == '__main__':
     
     process_thread = threading.Thread(target=processing_thread, args=())
